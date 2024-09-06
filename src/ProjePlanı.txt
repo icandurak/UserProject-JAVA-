@@ -1,10 +1,1 @@
-İzlenecek yollar
 
-
--Kullanıcıların verilerinin bulunduğu bir txt dosyası olmalı
-
--Bu dosyada Kullanıcı adı , yaşı , nickname'i ve şifresi bulunmalı (Her kullanıcının verisi bir dizide olmalı)
-
--Terminalde Giriş Yapma ya da Kayıt olma sorulmalı.
-
--Giriş Yapma seçilirse
